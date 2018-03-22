@@ -4,13 +4,22 @@
  <title>Rui Dong</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-22T14:10:21-04:00</updated>
+ <updated>2018-03-22T17:21:09-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Rui Dong</name>
    <email>ruiruidong1989@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Attention is All You Need</title>
+   <link href="http://localhost:4000/2018/03/22/Attention-is-All-You-Need/"/>
+   <updated>2018-03-22T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2018/03/22/Attention-is-All-You-Need</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/files/notes/Attention_is_All_You_Need.png&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
  
 
 </feed>
