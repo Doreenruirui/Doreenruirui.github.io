@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-<center> <img src="/files/image/me.jpg" width="200" height="200"/> </center> 
+<center> <img src="/files/image/me.jpg" width="300" height="300"/> </center> 
 I am a fourth year Ph.D. student at Northeastern University. I am working with Professor [David A. Smith](http://www.ccs.neu.edu/home/dasmith/) on Natural Language Processing. 
 
 Prior to that, I recieved my master degree from [School of Computer Science](http://www.cs.fudan.edu.cn/en/?page_id=6522), [Fudan University](http://www.fudan.edu.cn/en/) in June 2014. I got my bachelor degree from [School of Computer Science and Software Engineering](http://www.sei.ecnu.edu.cn/En/Default), [East China Normal University](http://english.ecnu.edu.cn/).
