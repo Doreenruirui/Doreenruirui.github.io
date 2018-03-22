@@ -4,7 +4,7 @@
  <title>Rui Dong</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-22T17:21:09-04:00</updated>
+ <updated>2018-03-22T18:54:12-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Rui Dong</name>
@@ -14,10 +14,42 @@
  
  <entry>
    <title>Attention is All You Need</title>
-   <link href="http://localhost:4000/2018/03/22/Attention-is-All-You-Need/"/>
+   <link href="http://localhost:4000/2018/03/22/Paper-Attention-is-All-You-Need/"/>
    <updated>2018-03-22T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2018/03/22/Attention-is-All-You-Need</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/files/notes/Attention_is_All_You_Need.png&quot; /&gt;&lt;/p&gt;
+   <id>http://localhost:4000/2018/03/22/Paper-Attention-is-All-You-Need</id>
+   <content type="html">&lt;p&gt;[&lt;a href=&quot;/files/bibtex/attention_is_all_you_need.txt&quot;&gt;bibtex&lt;/a&gt;]&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Google Brain, 2017&lt;/li&gt;
+  &lt;li&gt;Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N and Kaiser, Lukasz and Polosukhin, Illia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/files/notes/Attention_is_All_You_Need.png&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Summary for Season 1</title>
+   <link href="http://localhost:4000/2018/03/22/Life-Summary_for_Season_1/"/>
+   <updated>2018-03-22T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2018/03/22/Life-Summary_for_Season_1</id>
+   <content type="html">&lt;h2 id=&quot;books&quot;&gt;Books&lt;/h2&gt;
+&lt;p&gt;The first season of 2018 has passed. During this season, I have read 2 books: &lt;em&gt;Black Flags: The Rise of ISIS&lt;/em&gt; (Joby Warrick) and &lt;em&gt;1453: The Holy War for Constantinople and the Clash of Islam and the West &lt;/em&gt; (Roger Crowley).&lt;/p&gt;
+
+&lt;p&gt;The first book mainly introduced how the terror organizations are formed and how they have affected the life of people in Iraq and Syria. It also explains the role of U.S. in stimulating the formation of these organizations after it invaded Iraq.&lt;/p&gt;
+
+&lt;p&gt;The second book describes the war between the Byzantine Empire and Ottoman Empire (or Turkish Empire) in 1453. I appreciate the courage of Constantine XI Dragases Palaiologos, the last emperor, to lead his people to fight with the enimies who has much more soldiers and advanced weapons.&lt;/p&gt;
+
+&lt;h2 id=&quot;movies&quot;&gt;Movies&lt;/h2&gt;
+&lt;p&gt;I have watched lots of movies in the last two months: &lt;em&gt;Coco&lt;/em&gt;, &lt;em&gt;Wonder&lt;/em&gt;, &lt;em&gt;Bajrangi Bhaijaan&lt;/em&gt;, &lt;em&gt;The Death of Stalin&lt;/em&gt; , &lt;em&gt;Thirteen Days&lt;/em&gt; and &lt;em&gt;Der Untergang&lt;/em&gt;. I also watched &lt;em&gt;Three Idiots&lt;/em&gt; again with Ting.&lt;/p&gt;
+
+&lt;p&gt;The first three movies are very moving. &lt;em&gt;Coco&lt;/em&gt; is about a mexican boy who wants to be a musician accidently entered the world of the dead. The movie is full of awesome imginations about that world, e.g., the dead people need to pass through something like the custom when they go back to the world of the living. &lt;em&gt;Wonder&lt;/em&gt; is about Auggie, a little boy who has experienced numerous surgeries for born diseases. He is not good-looking and looks scary to some children. His mother decided to send him to a school as other boys after been home-schooled for many years. He becomes more and more confident with the encouragement of his family and makes good friends with his classmates finally. &lt;em&gt;Bahrangi Bhaijaan&lt;/em&gt; tells a story that a Indian guy sent a little girl back to Pakistan to find her family. They met kind-hearted people from both India and Pakistan, and a lot of hilarious things happened during their trip.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The Death of Stalin&lt;/em&gt; mainly talks about how the politician leaders competes for power after the death of Stalin. &lt;em&gt;Der Untergang&lt;/em&gt; is a German movie that describes the last 12 days in the life of Hilter.The cruel scences about the war revealed the deep reflection of this country after World War II. &lt;em&gt;Thirteen Days&lt;/em&gt; is about how President John F. Kennedy reacted to the missiles deployed in Cuba by the Soviet and how he prevented the possible nuclear war between U.S. and Soviet by commnunicating with Khrushchev.&lt;/p&gt;
+
+&lt;h2 id=&quot;tv-series&quot;&gt;TV Series&lt;/h2&gt;
+
+&lt;p&gt;I watched the TV Series &lt;em&gt;Handmaid’s Tale&lt;/em&gt;, &lt;em&gt;Firefly&lt;/em&gt; and &lt;em&gt;Last Man Standing&lt;/em&gt;.&lt;/p&gt;
 </content>
  </entry>
  
