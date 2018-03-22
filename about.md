@@ -16,12 +16,14 @@ Prior to that, I recieved my master degree from [School of Computer Science](htt
 * Language Modeling
 
 ## Publication List
+* <strong> Weakly-Guided User Stance Prediction via Joint Modeling of Content and Social Interaction </strong> \\
+	<strong> Rui Dong </strong>, Yizhou Sun, Lu Wang, Yupeng Gu, Yuan Zhong. \\
+	Proceedings of the 2017 ACM on Conference on Information and Knowledge Management (CIKM), 2017. \\
+	[[pdf](/files/paper/cikm_2017.pdf)][[bibtex](/files/bibtex/cikm2017.bib)]
+
+
 * <strong> A Probabilistic Approach to Latent Cluster Analysis  </strong> \\
 	Zhipeng Xie, <strong>Rui Dong</strong>, Zhengheng Deng, Zhenying He, Weidong Yang. \\
 	Proceedings of the Twenty-Third International Joint Conference on Artificial Intelligence (IJCAI), 2013. \\
 	[[pdf](/files/paper/ijcai_2013.pdf)] [[bibtex](/files/bibtex/ijcai2013.bib)]
 
-* <strong> Weakly-Guided User Stance Prediction via Joint Modeling of Content and Social Interaction </strong> \\
-      <strong> Rui Dong </strong>, Yizhou Sun, Lu Wang, Yupeng Gu, Yuan Zhong. \\
-	Proceedings of the 2017 ACM on Conference on Information and Knowledge Management (CIKM), 2017. \\
-	[[pdf](/files/paper/cikm_2017.pdf)][[bibtex](/files/bibtex/cikm2017.bib)]
