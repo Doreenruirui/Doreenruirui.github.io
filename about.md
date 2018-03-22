@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About Me 
 ---
 
 <center> <img src="/files/image/me.jpg" width="300" height="300"/> </center> 
@@ -16,7 +16,7 @@ Prior to that, I recieved my master degree from [School of Computer Science](htt
 * Language Modeling
 
 ## Publication List
-* <strong> A Probabilistic Approach to Latent Cluster Analysis.  </strong> \\
+* <strong> A Probabilistic Approach to Latent Cluster Analysis  </strong> \\
 	Zhipeng Xie, <strong>Rui Dong</strong>, Zhengheng Deng, Zhenying He, Weidong Yang. \\
 	Proceedings of the Twenty-Third International Joint Conference on Artificial Intelligence (IJCAI), 2013. \\
 	[[pdf](/files/paper/ijcai_2013.pdf)] [[bibtex](/files/bibtex/ijcai2013.bib)]
