@@ -9,7 +9,7 @@ plugins: [jekyll-paginate]
 
 # Setup
 title:               Rui Dong
-tagline:             'The personal website of Rui Dong'
+tagline:             
 description:         
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
