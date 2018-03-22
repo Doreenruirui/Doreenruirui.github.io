@@ -1,0 +1,7 @@
+@inproceedings{kiddon2016globally,
+  title={Globally coherent text generation with neural checklist models},
+  author={Kiddon, Chlo{\'e} and Zettlemoyer, Luke and Choi, Yejin},
+  booktitle={Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing},
+  pages={329--339},
+  year={2016}
+}
