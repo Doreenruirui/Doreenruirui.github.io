@@ -5,7 +5,7 @@ description:
 tags: Paper Code Attention Seq2Seq Generation
 ---
 
-[[bibtex](/files/bibtex/Globally-Coherent-Text-Generation-With-Neural-Checklist-Models.txt)]
+[[bibtex](/files/bibtex/Globally-Coherent-Text-Generation-with-Neural-Checklist-Models.txt)]
 
 * University of Washington, 2017
 
